@@ -1,6 +1,6 @@
 ---
 title: "Activity: Graphical Exploration"
-author: "YOUR NAME HERE"
+author: "Joe Roith"
 date: "Due Date: "
 output: html_notebook
 ---
